@@ -1,7 +1,7 @@
 hola mundo
 este es un archivo
 otra linea
-otra linea en nano
+
 otra linea en vim
 
 otro cambio
