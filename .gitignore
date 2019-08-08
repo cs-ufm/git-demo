@@ -1,1 +1,6 @@
 *.log
+node_modules
+dist/
+-*egg.info
+-*egg/
+!otro.log
